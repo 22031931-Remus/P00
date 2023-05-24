@@ -54,6 +54,7 @@ public class CalculatorTest {
 	public void testMultiply() {
 //		fail("Not yet implemented");
 		int a = 100;
+		
 		int b = 50;
 
 		Calculator cal = new Calculator();
